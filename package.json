@@ -1,0 +1,23 @@
+{
+  "name": "jest-test-js",
+  "version": "1.0.0",
+  "description": "Test for JavaScript using Jest",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errea/Jest-test-JS.git"
+  },
+  "author": "Eri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/errea/Jest-test-JS/issues"
+  },
+  "homepage": "https://github.com/errea/Jest-test-JS#readme"
+}
